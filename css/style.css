@@ -1,13 +1,13 @@
 /********** Template CSS **********/
 :root {
     /* --primary: #006B75; */
-    --primary: #003366;
+    --primary: #18baeb;
     --light: #F6F7F8;
     --dark: #1A2A36;
 }
 
 .cordestaque {
-    color: #0063c5
+    color: #18baeb
 }
 
 .fw-medium {
